@@ -1,1 +1,2 @@
-
+Lil Workout was a website developed for WCIS:
+Due to Covid 19, most people are unable to do physical activity due to the restriction and fear of going outside. As a result, we made a website that would combat this problem by introducing some workouts that people could do at home, without any equipment or much space. All you have to do is choose which body parts that you would like to work on down below and our website will generate a routine for you to do. Do NOT forget to stretch before you start working out!
